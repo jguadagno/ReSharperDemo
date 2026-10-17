@@ -1,0 +1,12 @@
+# Build output and restored packages
+[Bb]in/
+[Oo]bj/
+[Tt]est[Rr]esult*/
+packages/
+
+# IDE and user-specific files
+.vs/
+.idea/
+*.user
+*.suo
+*.DotSettings.user
